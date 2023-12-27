@@ -1,0 +1,18 @@
+.castList {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.castList li {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 200px;
+}
+.castList li img {
+  width: 100%;
+}
+.castList li p {
+  text-align: center;
+  font-weight: bold;
+}

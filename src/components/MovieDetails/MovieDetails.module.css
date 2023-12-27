@@ -1,0 +1,25 @@
+.container {
+  margin: 15px;
+}
+.details {
+  display: flex;
+  gap: 15px;
+  font-size: 20px;
+}
+.details span {
+  font-weight: bold;
+}
+.movieInfo {
+  display: flex;
+  gap: 10px;
+  margin-left: 100px;
+}
+.movieInfo a {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+}
